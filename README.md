@@ -16,8 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ParthDhule/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ParthDhule/DSA-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ParthDhule/DSA-Questions/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthDhule/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ParthDhule/DSA-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
